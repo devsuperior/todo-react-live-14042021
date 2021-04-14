@@ -12,8 +12,8 @@ Live 14/04/2021 - Todo
 
 ## Desafio
 
-[ ] Editar o Todo <br />
-[ ] Salvar os dados na localStorage / Recuperar os dados da localStorage
+- [ ] Editar o Todo <br />
+- [ ] Salvar os dados na localStorage / Recuperar os dados da localStorage
 
 ## Observações
 O desafio deve ser encarado como um exercício de fixação. faça ele apenas quando tiver um tempinho sobrando e suas aulas estiverem em dia 😜
